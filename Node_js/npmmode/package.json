@@ -1,0 +1,16 @@
+{
+  "name": "npmmode",
+  "version": "1.0.0",
+  "description": "akash mishra love to eat pizza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Ersssssror: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
